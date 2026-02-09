@@ -21,5 +21,5 @@ Alongside this, I am actively **learning Data Science and Machine Learning** to 
 - Real-world analytics projects
 
 ## 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/wasimakram-ai
+- LinkedIn: https://www.linkedin.com/in/wasimakram-in
 
