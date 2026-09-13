@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-I am a Data Analyst & Frontend Developer currently learning **Data Science** and **Machine Learning**. I have a strong foundation in computer applications and passionate about analyzing data, building interactive dashboards, and developing web applications.
+I am a Data Analyst & Frontend Developer currently learning **Data Science** and **Machine Learning**. I have a good foundation in computer applications and passionate about analyzing data, building interactive dashboards, and developing web applications.
 
 * 🔭 **Currently Focusing On:** Data Analytics, Data Visualization, and Web Development
 * 🌱 **Currently Learning:** Advanced Data Science & Machine Learning Algorithms
