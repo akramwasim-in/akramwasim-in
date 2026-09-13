@@ -1,25 +1,33 @@
 # Hi, I'm Wasim Akram 👋
 
-## 🚀 About Me
-I am a **Frontend Developer and Data Analyst**, currently preparing for full-time roles.  
-Alongside this, I am actively **learning Data Science and Machine Learning** to grow into a Data Scientist role.
+### 🎓 Education
+* **BCA (Bachelor of Computer Applications)** — Jamia Hamdard University, New Delhi (Passout: 2023)
 
-## 💼 Current Focus
-- Frontend Development
-- Data Analysis & Business Analytics
-- Power BI Dashboarding
-- Learning Machine Learning fundamentals
+---
 
-## 🛠️ Skills
-**Frontend:** HTML, CSS, JavaScript  
-**Data Analytics:** Python, SQL, Power BI, Excel  
-**Data Science (Learning):** Pandas, NumPy, Machine Learning basics  
+### 🚀 About Me
+I am a Data Analyst & Frontend Developer currently learning **Data Science** and **Machine Learning**. I have a strong foundation in computer applications and passionate about analyzing data, building interactive dashboards, and developing web applications.
 
-## 🌱 Learning Goals
-- Advanced Data Science
-- Machine Learning models
-- Real-world analytics projects
+* 🔭 **Currently Focusing On:** Data Analytics, Data Visualization, and Web Development
+* 🌱 **Currently Learning:** Advanced Data Science & Machine Learning Algorithms
+* 💬 **Ask me about:** Python, SQL, Power BI, Data Analysis, and Frontend Technologies
 
-## 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/wasimakram-in
+---
 
+### 🛠️ Technical Skills
+
+* **Data Analytics & Visualization:** Python, SQL, MySQL, Power BI, Excel
+* **Data Science Libraries:** Pandas, NumPy, Seaborn, Matplotlib
+* **Backend Frameworks:** Flask
+* **Frontend Development:** HTML, CSS, JavaScript
+
+---
+
+### 🎯 Learning Goals
+* Master Machine Learning models & Predictive Analytics
+* Build end-to-end Data Science & Analytics projects
+
+---
+
+### 🌐 Connect With Me
+* **LinkedIn:** https://www.linkedin.com/in/wasimakram-in
