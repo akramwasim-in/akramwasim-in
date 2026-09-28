@@ -1,33 +1,29 @@
-# Hi, I'm Wasim Akram 
+# Hi there, I'm Akram Wasim 
 
-### Education
-**BCA (Bachelor of Computer Applications)** — Jamia Hamdard University, New Delhi (Passout: 2023)
-
----
-
-### About Me
-I am a Data Analyst & Frontend Developer currently learning **Data Science** and **Machine Learning**. I have a good foundation in computer applications and passionate about analyzing data, building interactive dashboards.
-
--**Currently Focusing On:** Data Analytics, Data Visualization.
--**Currently Learning:** Advanced Data Science & Machine Learning Algorithms
--**Ask me about:** Python, SQL, Power BI, Data Analysis, and Frontend Technologies
+I am a Data Analyst & Frontend Developer currently learning Data Science and Machine Learning. I have a good foundation in computer applications and am passionate about analyzing data and building interactive dashboards.
 
 ---
 
-### Technical Skills
-
--**Data Analytics & Visualization:** Python, SQL, MySQL, Power BI, Excel
--**Data Science Libraries:** Pandas, NumPy, Seaborn, Matplotlib etc.
--**Backend Frameworks:** Flask
--**Frontend Development:** HTML, CSS, JavaScript
+###  About Me
+-  **Currently Focusing On:** Data Analytics & Data Visualization
+-  **Currently Learning:** Advanced Data Science & Machine Learning Algorithms
+-  **Ask Me About:** Python, SQL, Power BI, Data Analysis, and Frontend Technologies
 
 ---
 
-### Learning Goals
-* Master Machine Learning models & Predictive Analytics
-* Build end-to-end Data Science & Analytics projects
+###  Technical Skills
+
+- **Data Analytics & Visualization:** Python, SQL, MySQL, Power BI, Excel
+- **Data Science Libraries:** Pandas, NumPy, Seaborn, Matplotlib
+- **Backend Frameworks:** Flask
+- **Frontend Development:** HTML, CSS, JavaScript
 
 ---
 
-### Connect With Me
-**LinkedIn:** https://www.linkedin.com/in/wasimakram-in
+###  Learning Goals
+
+-  Master Machine Learning models & Predictive Analytics
+-  Build end-to-end Data Science & Analytics projects
+
+###  Connect with Me
+https://www.linkedin.com/in/akramwasim-in/
