@@ -8,18 +8,18 @@
 ### About Me
 I am a Data Analyst & Frontend Developer currently learning **Data Science** and **Machine Learning**. I have a good foundation in computer applications and passionate about analyzing data, building interactive dashboards.
 
-**Currently Focusing On:** Data Analytics, Data Visualization.
-**Currently Learning:** Advanced Data Science & Machine Learning Algorithms
-**Ask me about:** Python, SQL, Power BI, Data Analysis, and Frontend Technologies
+-**Currently Focusing On:** Data Analytics, Data Visualization.
+-**Currently Learning:** Advanced Data Science & Machine Learning Algorithms
+-**Ask me about:** Python, SQL, Power BI, Data Analysis, and Frontend Technologies
 
 ---
 
 ### Technical Skills
 
-**Data Analytics & Visualization:** Python, SQL, MySQL, Power BI, Excel
-**Data Science Libraries:** Pandas, NumPy, Seaborn, Matplotlib etc.
-**Backend Frameworks:** Flask
-**Frontend Development:** HTML, CSS, JavaScript
+-**Data Analytics & Visualization:** Python, SQL, MySQL, Power BI, Excel
+-**Data Science Libraries:** Pandas, NumPy, Seaborn, Matplotlib etc.
+-**Backend Frameworks:** Flask
+-**Frontend Development:** HTML, CSS, JavaScript
 
 ---
 
